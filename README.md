@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santhanabharathi s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhanabharathi s" height="30" width="40" /></a>
-<a href="https://kaggle.com/santhanabharathi s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santhanabharathi s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santhanabharathi-s-b9b846202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhanabharathi-s-b9b846202/" height="30" width="40" /></a>
+<a href="https://kaggle.com/santhanabharathis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santhanabharathis" height="30" width="40" /></a>
 <a href="https://instagram.com/_fz._.throttler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fz._.throttler" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rmpsbharathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rmpsbharathi" height="30" width="40" /></a>
 <a href="https://discord.gg/#5460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5460" height="30" width="40" /></a>
